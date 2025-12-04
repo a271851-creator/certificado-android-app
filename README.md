@@ -1,6 +1,6 @@
-# Certificado Android App
+# Certificado Android App y Chacals
 
-Aplicación Android desarrollada en Kotlin que genera certificados personalizados.
+Aplicación Android desarrollada en Kotlin y chihuas que genera certificados personalizados.
 
 ## Características
 - Certificados con escudos personalizables
@@ -15,3 +15,4 @@ Aplicación Android desarrollada en Kotlin que genera certificados personalizado
 
 ## Desarrollado por
 Jesús Saúl Estrada Vivas
+## modificado por Manuel Eduardo Morua 
