@@ -4,8 +4,8 @@
     <option name="columnSorters">
       <list>
         <ColumnSorterState>
-          <option name="column" value="Name" />
-          <option name="order" value="ASCENDING" />
+          <option name="column" value="" />
+          <option name="order" value="" />
         </ColumnSorterState>
       </list>
     </option>
