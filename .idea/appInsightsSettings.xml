@@ -8,7 +8,7 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
+                  <option name="chacal" value="" />
                   <option name="mobileSdkAppId" value="" />
                   <option name="projectId" value="" />
                   <option name="projectNumber" value="" />
